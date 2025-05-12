@@ -1,9 +1,7 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_github_user_id" width="150" height="150" style="border-radius: 50%" alt="Fahim Ibn Habib's Profile Photo"/>
-</p>
 
-<h1 align="center">Hi, I'm Fahim Ibn Habib 👋</h1>
+
+<h1 align="center">Hi👋, I'm Fahim Ibn Habib 😇 </h1>
 
 <p align="center">
 🎯 A passionate Data Analyst and aspiring Data Scientist from Bangladesh<br>
@@ -14,7 +12,7 @@
 ---
 
 <p align="center">
-💡 *Open to opportunities in Analytics, Research & Development, and Data Science!*
+💡 *Open to opportunities in Analytics, Research, Analysis & Development, and Data Science!*
 </p>
 
 ---
